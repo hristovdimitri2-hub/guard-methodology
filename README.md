@@ -1,0 +1,1 @@
+Field notes from operating a 402 endpoint in production: four failure modes and a five-minute self-check for x402 sellers. Corrections welcome.
